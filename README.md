@@ -24,11 +24,9 @@ Physical states are described by unresolved null-directional components. The fam
 
 ## Repository Structure
 * `/paper`: Contains the LaTeX source code (`.tex`) and the compiled `.pdf` of the manuscript.
-* `/figures`: Contains the raw image files and diagrams used in the manuscript.
-* `/code`: Python scripts and Jupyter notebooks used to generate numerical models or plots.
 
 ## Citation
-If you use this framework or code in your research, please cite the preprint via Zenodo:
+If you use this framework in your research, please cite the preprint via Zenodo:
 
 > **Thompson, E. (2026).** *A Null-Kinematic Reformulation of Spacetime, Gravity, and Quantum Mechanics - Toward a Unified Framework Based on Directional Indeterminacy*. Zenodo. https://doi.org/10.5281/zenodo.18623229
 
